@@ -1,0 +1,199 @@
+
+prefix2021/01/17 20:15:31 
+prefix2021/01/17 20:15:36 
+prefix2021/01/17 20:15:44 
+prefix2021/01/17 20:15:51 
+prefix2021/01/17 20:15:58 
+prefix2021/01/17 20:16:07 
+icap2021/01/17 20:25:24 
+icap2021/01/17 20:25:24 This is a test log entry
+icap2021/01/17 20:25:25 
+icap2021/01/17 20:25:25 This is a test log entry
+icap2021/01/17 20:25:25 
+icap2021/01/17 20:25:25 This is a test log entry
+icap2021/01/17 20:25:26 
+icap2021/01/17 20:25:26 This is a test log entry
+icap2021/01/17 20:25:26 
+icap2021/01/17 20:25:26 This is a test log entry
+icap2021/01/17 20:25:26 
+icap2021/01/17 20:25:26 This is a test log entry
+icap2021/01/17 20:29:55 ICAP server:eu.icap.glasswall-icap.com, ip:172.24.66.253, port:1344
+
+Error opening output file hello0reb.pdf
+Command exited with non-zero status 255
+0.00user 0.00system 0:00.40elapsed 0%CPU (0avgtext+0avgdata 4552maxresident)k
+0inputs+0outputs (0major+265minor)pagefaults 0swaps
+
+icap2021/01/17 20:29:55 
+icap2021/01/17 20:29:55 This is a test log entry
+icap2021/01/17 20:29:55 ICAP server:eu.icap.glasswall-icap.com, ip:172.24.66.253, port:1344
+
+Error opening output file hello1reb.pdf
+Command exited with non-zero status 255
+0.00user 0.00system 0:00.31elapsed 0%CPU (0avgtext+0avgdata 4600maxresident)k
+0inputs+0outputs (0major+263minor)pagefaults 0swaps
+
+icap2021/01/17 20:29:55 
+icap2021/01/17 20:29:55 This is a test log entry
+icap2021/01/17 20:29:56 ICAP server:eu.icap.glasswall-icap.com, ip:172.24.66.253, port:1344
+
+Error opening output file hello2reb.pdf
+Command exited with non-zero status 255
+0.00user 0.00system 0:00.31elapsed 0%CPU (0avgtext+0avgdata 4464maxresident)k
+0inputs+0outputs (0major+262minor)pagefaults 0swaps
+
+icap2021/01/17 20:29:56 
+icap2021/01/17 20:29:56 This is a test log entry
+icap2021/01/17 20:29:56 ICAP server:eu.icap.glasswall-icap.com, ip:172.24.66.253, port:1344
+
+Error opening output file hello3reb.pdf
+Command exited with non-zero status 255
+0.00user 0.00system 0:00.33elapsed 0%CPU (0avgtext+0avgdata 4528maxresident)k
+0inputs+0outputs (0major+262minor)pagefaults 0swaps
+
+icap2021/01/17 20:29:56 
+icap2021/01/17 20:29:56 This is a test log entry
+icap2021/01/17 20:29:56 ICAP server:eu.icap.glasswall-icap.com, ip:172.24.66.253, port:1344
+
+Error opening output file hello4reb.pdf
+Command exited with non-zero status 255
+0.00user 0.00system 0:00.31elapsed 0%CPU (0avgtext+0avgdata 4524maxresident)k
+0inputs+0outputs (0major+261minor)pagefaults 0swaps
+
+icap2021/01/17 20:29:56 
+icap2021/01/17 20:29:56 This is a test log entry
+icap2021/01/17 20:29:57 ICAP server:eu.icap.glasswall-icap.com, ip:172.24.66.253, port:1344
+
+Error opening output file hello5reb.pdf
+Command exited with non-zero status 255
+0.00user 0.00system 0:00.31elapsed 0%CPU (0avgtext+0avgdata 4516maxresident)k
+0inputs+0outputs (0major+263minor)pagefaults 0swaps
+
+icap2021/01/17 20:29:57 
+icap2021/01/17 20:29:57 This is a test log entry
+icap2021/01/17 20:40:26 ICAP server:eu.icap.glasswall-icap.com, ip:172.24.66.253, port:1344
+
+
+ICAP HEADERS:
+	ICAP/1.0 200 OK
+	Server: C-ICAP/0.5.6
+	Connection: keep-alive
+	ISTag: CI0001-2.1.1
+	Encapsulated: res-hdr=0, res-body=265
+
+RESPMOD HEADERS:
+	HTTP/1.0 200 OK
+	Date: Sun Jan 17 20:40:20 2021
+	Last-Modified: Sun Jan 17 20:40:20 2021
+	Content-Length: 5621
+	X-Adaptation-File-Id: cdd8ca28-740c-4100-a6a4-95852f9ec679
+	Via: ICAP/1.0 mvp-icap-service-7c4888dfd6-25q5w (C-ICAP/0.5.6 Glasswall Rebuild service )
+
+0.00user 0.00system 0:06.15elapsed 0%CPU (0avgtext+0avgdata 4552maxresident)k
+0inputs+16outputs (0major+269minor)pagefaults 0swaps
+
+icap2021/01/17 20:40:31 ICAP server:eu.icap.glasswall-icap.com, ip:172.24.66.253, port:1344
+
+
+ICAP HEADERS:
+	ICAP/1.0 200 OK
+	Server: C-ICAP/0.5.6
+	Connection: keep-alive
+	ISTag: CI0001-2.1.1
+	Encapsulated: res-hdr=0, res-body=265
+
+RESPMOD HEADERS:
+	HTTP/1.0 200 OK
+	Date: Sun Jan 17 20:40:26 2021
+	Last-Modified: Sun Jan 17 20:40:26 2021
+	Content-Length: 5621
+	X-Adaptation-File-Id: 7dc6647b-9b41-4261-9006-5acb7a4e804e
+	Via: ICAP/1.0 mvp-icap-service-7c4888dfd6-qt2xq (C-ICAP/0.5.6 Glasswall Rebuild service )
+
+0.00user 0.01system 0:05.36elapsed 0%CPU (0avgtext+0avgdata 4620maxresident)k
+0inputs+16outputs (0major+271minor)pagefaults 0swaps
+
+icap2021/01/17 20:40:37 ICAP server:eu.icap.glasswall-icap.com, ip:172.24.66.253, port:1344
+
+
+ICAP HEADERS:
+	ICAP/1.0 200 OK
+	Server: C-ICAP/0.5.6
+	Connection: keep-alive
+	ISTag: CI0001-2.1.1
+	Encapsulated: res-hdr=0, res-body=265
+
+RESPMOD HEADERS:
+	HTTP/1.0 200 OK
+	Date: Sun Jan 17 20:40:32 2021
+	Last-Modified: Sun Jan 17 20:40:32 2021
+	Content-Length: 5621
+	X-Adaptation-File-Id: c30f9efc-c5ea-496c-8e18-455eaf77276b
+	Via: ICAP/1.0 mvp-icap-service-7c4888dfd6-qt2xq (C-ICAP/0.5.6 Glasswall Rebuild service )
+
+0.00user 0.00system 0:05.47elapsed 0%CPU (0avgtext+0avgdata 4604maxresident)k
+0inputs+16outputs (0major+271minor)pagefaults 0swaps
+
+icap2021/01/17 20:40:42 ICAP server:eu.icap.glasswall-icap.com, ip:172.24.66.253, port:1344
+
+
+ICAP HEADERS:
+	ICAP/1.0 200 OK
+	Server: C-ICAP/0.5.6
+	Connection: keep-alive
+	ISTag: CI0001-2.1.1
+	Encapsulated: res-hdr=0, res-body=265
+
+RESPMOD HEADERS:
+	HTTP/1.0 200 OK
+	Date: Sun Jan 17 20:40:37 2021
+	Last-Modified: Sun Jan 17 20:40:37 2021
+	Content-Length: 5621
+	X-Adaptation-File-Id: 19c97346-a94f-440d-be24-17424365c2f4
+	Via: ICAP/1.0 mvp-icap-service-7c4888dfd6-qt2xq (C-ICAP/0.5.6 Glasswall Rebuild service )
+
+0.00user 0.00system 0:05.30elapsed 0%CPU (0avgtext+0avgdata 4660maxresident)k
+0inputs+16outputs (0major+272minor)pagefaults 0swaps
+
+icap2021/01/17 20:40:47 ICAP server:eu.icap.glasswall-icap.com, ip:172.24.66.253, port:1344
+
+
+ICAP HEADERS:
+	ICAP/1.0 200 OK
+	Server: C-ICAP/0.5.6
+	Connection: keep-alive
+	ISTag: CI0001-2.1.1
+	Encapsulated: res-hdr=0, res-body=265
+
+RESPMOD HEADERS:
+	HTTP/1.0 200 OK
+	Date: Sun Jan 17 20:40:42 2021
+	Last-Modified: Sun Jan 17 20:40:42 2021
+	Content-Length: 5621
+	X-Adaptation-File-Id: 38c0d15e-6549-4944-94b2-96a4d2a0a607
+	Via: ICAP/1.0 mvp-icap-service-7c4888dfd6-qt2xq (C-ICAP/0.5.6 Glasswall Rebuild service )
+
+0.00user 0.00system 0:05.26elapsed 0%CPU (0avgtext+0avgdata 4672maxresident)k
+0inputs+16outputs (0major+272minor)pagefaults 0swaps
+
+icap2021/01/17 20:40:53 ICAP server:eu.icap.glasswall-icap.com, ip:172.24.66.253, port:1344
+
+
+ICAP HEADERS:
+	ICAP/1.0 200 OK
+	Server: C-ICAP/0.5.6
+	Connection: keep-alive
+	ISTag: CI0001-2.1.1
+	Encapsulated: res-hdr=0, res-body=265
+
+RESPMOD HEADERS:
+	HTTP/1.0 200 OK
+	Date: Sun Jan 17 20:40:48 2021
+	Last-Modified: Sun Jan 17 20:40:48 2021
+	Content-Length: 5621
+	X-Adaptation-File-Id: 4dbd6c92-7c0f-437e-9534-e8ef39c7675c
+	Via: ICAP/1.0 mvp-icap-service-7c4888dfd6-25q5w (C-ICAP/0.5.6 Glasswall Rebuild service )
+
+0.00user 0.00system 0:06.06elapsed 0%CPU (0avgtext+0avgdata 4512maxresident)k
+0inputs+16outputs (0major+269minor)pagefaults 0swaps
+

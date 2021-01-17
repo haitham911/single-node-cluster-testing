@@ -1,0 +1,20 @@
+ICAP server:eu.icap.glasswall-icap.com, ip:172.24.66.253, port:1344
+
+
+ICAP HEADERS:
+	ICAP/1.0 200 OK
+	Server: C-ICAP/0.5.6
+	Connection: keep-alive
+	ISTag: CI0001-2.1.1
+	Encapsulated: res-hdr=0, res-body=265
+
+RESPMOD HEADERS:
+	HTTP/1.0 200 OK
+	Date: Sun Jan 17 20:40:48 2021
+	Last-Modified: Sun Jan 17 20:40:48 2021
+	Content-Length: 5621
+	X-Adaptation-File-Id: 4dbd6c92-7c0f-437e-9534-e8ef39c7675c
+	Via: ICAP/1.0 mvp-icap-service-7c4888dfd6-25q5w (C-ICAP/0.5.6 Glasswall Rebuild service )
+
+0.00user 0.00system 0:06.06elapsed 0%CPU (0avgtext+0avgdata 4512maxresident)k
+0inputs+16outputs (0major+269minor)pagefaults 0swaps
