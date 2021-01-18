@@ -9,6 +9,7 @@ import (
 	"sync"
 	"syscall"
 	"time"
+
 )
 
 const defaultFailedCode = 1
@@ -43,14 +44,14 @@ func main() {
 
 	var args = make([][]string, req)
 	for index, element := range filesname {
-
 		args[index] = []string{"c-icap-client", "-i", servername, "-p", port, "-f", element + ".pdf", "-s", "gw_rebuild", "-o", "reb_" + element + ".pdf", "-v"}
+
 
 	}
 	go func(ch <-chan []string) {
 
 		for {
-			if i, ok := <-ch; ok {
+					if i, ok := <-ch; ok {
 				dt := time.Now()
 				logger.Println("Run Command : " + dt.String())
 				out, runerr, _ = RunCommand("time", i)
