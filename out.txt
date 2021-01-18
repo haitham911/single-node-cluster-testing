@@ -1,0 +1,6 @@
+ICAP server:eu.icap.glasswall-icap.com, ip:172.22.55.227, port:1344
+
+Error opening output file reb_hello5.pdf
+Command exited with non-zero status 255
+0.00user 0.00system 0:00.14elapsed 1%CPU (0avgtext+0avgdata 4560maxresident)k
+0inputs+0outputs (0major+263minor)pagefaults 0swaps
