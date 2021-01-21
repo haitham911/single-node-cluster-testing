@@ -39,7 +39,7 @@ func Run() {
 	fmt.Println("BEGIN")
 	filesname := []string{"hello0", "hello1", "hello2", "hello3", "hello4", "hello5"}
 	pathin := Path() + "/inputs/"
-	pathout := Path() + "/outputs/"
+	pathout := Path() + "/output/"
 
 	//servername := "eu.icap.glasswall-icap.com"  54.154.157.201
 	servername := os.Getenv("ICAP_HOST")
