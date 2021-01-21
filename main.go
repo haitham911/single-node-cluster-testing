@@ -38,10 +38,14 @@ func main() {
 	wg.Add(2)
 
 	req := len(filesname)
-	servername := "eu.icap.glasswall-icap.com"
-	port := "1344"
+	//time c-icap-client   -i  54.154.157.201 -p 1344 -s gw_rebuild -o ./reb.pdf -v"
+	// 78.159.113.46   eu.icap.glasswall-icap.com
+	//  54.154.157.201
 
+	servername := "54.154.157.201"
+	port := "1344"
 	var args = make([][]string, req)
+
 	for index, element := range filesname {
 
 		args[index] = []string{"c-icap-client", "-i", servername, "-p", port, "-f", element + ".pdf", "-s", "gw_rebuild", "-o", "reb_" + element + ".pdf", "-v"}
