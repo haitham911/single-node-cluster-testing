@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/haitham911/single-node-cluster-testing/api"
+	"github.com/single-node-cluster-testing/api"
 )
 
 func main() {

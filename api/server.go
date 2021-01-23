@@ -8,9 +8,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/haitham911/single-node-cluster-testing/api/controllers"
+	"github.com/single-node-cluster-testing/api/controllers"
 
-	"github.com/haitham911/single-node-cluster-testing/api/concurrents"
+	"github.com/single-node-cluster-testing/api/concurrents"
 
 	"github.com/joho/godotenv"
 )
